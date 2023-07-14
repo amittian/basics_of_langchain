@@ -1,1 +1,1 @@
-# basics_of_langchain
+	Software framework for large language model application development.
